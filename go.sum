@@ -1,4 +1,8 @@
-github.com/u-root/u-root v0.0.0-20180806213625-12f9029297cf h1:EEvaBfp7JfttSDsqDibrSFPXga9xuthzkVt9IfatI2w=
-github.com/u-root/u-root v0.0.0-20180806213625-12f9029297cf/go.mod h1:RYkpo8pTHrNjW08opNd/U6p/RJE7K0D8fXO0d47+3YY=
-golang.org/x/sys v0.0.0-20180727230415-bd9dbc187b6e h1:3dQ4fR8k5KugjVKO0oqSd1odxuk2yaE2CIfxWP2WarQ=
-golang.org/x/sys v0.0.0-20180727230415-bd9dbc187b6e/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+github.com/dustin/go-humanize v1.0.0 h1:VSnTsYCnlFHaM2/igO1h6X3HA71jcobQuxemgkq4zYo=
+github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
+github.com/pierrec/lz4/v4 v4.1.14 h1:+fL8AQEZtz/ijeNnpduH0bROTu0O3NZAlPjQxGn8LwE=
+github.com/pierrec/lz4/v4 v4.1.14/go.mod h1:gZWDp/Ze/IJXGXf23ltt2EXimqmTUXEy0GFuRQyBid4=
+github.com/u-root/u-root v0.9.0 h1:1dpUzrE0FyKrNEjxpKFOkyveuV1f3T0Ko5CQg4gTkCg=
+github.com/u-root/u-root v0.9.0/go.mod h1:ewc9w6JF1ayZCVC9Y5wsrUiCBw3nMmPC3QItvrEwmew=
+golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d h1:Zu/JngovGLVi6t2J3nmAf3AoTDwuzw85YZ3b9o4yU7s=
+golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
